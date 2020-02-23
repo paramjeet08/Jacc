@@ -37,4 +37,4 @@ try:
 except:
     pass
 
-bot.run(token)
+bot.run("NjgwNjk5MDQ2NDYwOTE1NzEz.XlK8NA.E8TCOTYxP08dqYEn4KlOpC_bp5g")
